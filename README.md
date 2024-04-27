@@ -1,8 +1,8 @@
 # FULL_ADDER_SUBTRACTOR
 
-Developed by : Rama E.K. Lekshmi
+Developed by : R Gokul
 
-Register Number : 212222240082
+Register Number : 212222230039
 
 ## Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
